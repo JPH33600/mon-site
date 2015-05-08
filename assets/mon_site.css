@@ -1,0 +1,18 @@
+/* styles ajoutés à Bootstrap */
+.header-logo
+    {
+        max-width: 50px;
+        display: inline-block;
+        vertical-align: middle;
+        float: left;
+    }
+
+nav
+    {
+        background-image:  -webkit-gradient(linear, 0% 0%, 0% 100%, from(#666666), to(#C47600), color-stop(0,#333333))
+    }
+
+.container-fluid
+    {
+        margin-top: 50px;
+    }
